@@ -56,16 +56,11 @@ currently playing with **Golang, PHP/Laravel, Python, JavaScript, Vue.js & Nuxt.
 ### 📊 my little stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marthana4&show_icons=true&hide_border=true&count_private=true&bg_color=FFF0F5&title_color=FF6F91&icon_color=C9A0DC&text_color=7A5C7A" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marthana4&layout=compact&hide_border=true&langs_count=8&bg_color=FFF0F5&title_color=FF6F91&text_color=7A5C7A" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Marthana4&hide_border=true&background=FFF0F5&ring=FF8FAB&fire=FF6F91&currStreakLabel=FF6F91&sideNums=7A5C7A&sideLabels=C9A0DC&dates=A68BA6&stroke=F7C6D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marthana4&hide_border=true&bg_color=FFF0F5&color=7A5C7A&line=FF8FAB&point=C9A0DC&area=true&area_color=FBC2EB&title_color=FF6F91" />
+  <img src="https://raw.githubusercontent.com/Marthana4/Marthana4/output/snake-pastel.svg" alt="snake eating my contributions 🐍" />
 </p>
 
 <p align="center">₊˚⊹ ♡ ⊹˚₊ ₊˚⊹ ♡ ⊹˚₊ ₊˚⊹ ♡ ⊹˚₊</p>
